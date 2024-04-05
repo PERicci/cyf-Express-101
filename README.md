@@ -16,3 +16,13 @@ To get started with the project, clone the repository and install the dependenci
   cd cyf-Express-101
   npm install
 ```
+
+## Running the Project
+
+To run the project, start the server with the following command:
+
+```bash
+  npm start
+```
+
+By default, the server will start and listen on port 3000.
